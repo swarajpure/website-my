@@ -1,6 +1,6 @@
 # website-my
 
-A personal dashboard website where you can do profile related stuff!
+A personal dashboard website where you can do profile related stuff.
 
 ## Prerequisites
 
